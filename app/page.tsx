@@ -1,5 +1,5 @@
 import { getDashboardStats } from '@/app/actions';
-import { Stroke, AlertCircle } from 'lucide-react';
+import { AlertCircle } from 'lucide-react';
 import { StreakHeatmap } from '@/components/StreakHeatmap';
 import { Navigation } from '@/components/Navigation';
 import Link from 'next/link';
